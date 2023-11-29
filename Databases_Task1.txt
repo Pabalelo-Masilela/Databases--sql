@@ -1,0 +1,9 @@
+1-
+a. Raw facst that give detail or description sucn as name or email.
+b. Character/s used to define certain data or store in a linked manner.
+c. Connected set of filed that decribe/store information belonging to a certain identifier.
+d. A combination of stored records in one document.
+
+2-
+e. 4 records
+f. 5 fields
